@@ -1,0 +1,75 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>My Hobby: Hunting</title>
+</head>
+
+<body>
+
+    <h1>Hunting: A Outdoor Hobby</h1>
+
+    <p>
+        Hunting is an outdoor hobby that gives people an opportunity to
+        spend time in nature and explore the outdoors. It can involve
+        learning about wildlife, tracking animals, understanding the
+        environment, and developing patience and observation skills.
+    </p>
+
+    <img
+        src="https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1000&q=80"
+        alt="A hunter standing outdoors in a forest"
+        width="600"
+    >
+
+    <h2>Why I Enjoy Hunting</h2>
+
+    <p>
+        One of the things I enjoy about hunting is spending time outside.
+        Hunting can take people into forests, mountains, and other natural
+        environments where they can experience wildlife and changing
+        weather conditions. It is also an activity that requires patience,
+        preparation, and attention to the surroundings.
+    </p>
+
+    <h2>Learning About Wildlife</h2>
+
+    <p>
+        Hunting can also encourage people to learn more about local
+        wildlife and conservation. Understanding animal behavior,
+        identifying tracks, and learning about different habitats can make
+        time outdoors more interesting. Responsible hunters also follow
+        local laws and regulations designed to protect wildlife populations.
+    </p>
+
+    <h3>Responsible Hunting</h3>
+
+    <p>
+        Safety and conservation are important parts of hunting. Hunters
+        should know and follow the regulations in their area, respect
+        private property, and practice safe and ethical behavior in the
+        outdoors.
+    </p>
+
+    <p>
+        You can learn more about hunting regulations and wildlife
+        conservation through the
+        <a href="https://fwp.mt.gov/hunting">
+            Montana Fish, Wildlife & Parks hunting website
+        </a>.
+    </p>
+
+</body>
+
+</html>
